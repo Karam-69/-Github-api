@@ -5,7 +5,7 @@ Github Api Users Search
 
 ---
 
-## [Wanna Try?](https://karam-69.github.io/Github-api/)
+## [🚀 Live Demo](https://karam-69.github.io/Github-api/)
 
 ## Made By: Mohamed Karam.
 
